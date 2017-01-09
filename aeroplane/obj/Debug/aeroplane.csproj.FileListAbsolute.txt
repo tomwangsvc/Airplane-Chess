@@ -1,0 +1,6 @@
+H:\aeroplane\aeroplane\bin\Debug\aeroplane.exe.config
+H:\aeroplane\aeroplane\bin\Debug\aeroplane.exe
+H:\aeroplane\aeroplane\bin\Debug\aeroplane.pdb
+H:\aeroplane\aeroplane\obj\Debug\aeroplane.csprojResolveAssemblyReference.cache
+H:\aeroplane\aeroplane\obj\Debug\aeroplane.exe
+H:\aeroplane\aeroplane\obj\Debug\aeroplane.pdb
